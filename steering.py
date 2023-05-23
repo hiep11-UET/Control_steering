@@ -142,3 +142,5 @@ with mp_hands.Hands(
     if cv2.waitKey(5) & 0xFF == ord('q'):
       break
 cap.release()
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cxcdsdasdsdasdasdasdada
